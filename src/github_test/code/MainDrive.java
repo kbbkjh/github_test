@@ -12,8 +12,10 @@ public class MainDrive {
 		System.out.print("생년원일 입력:");
 		int myBirthYear = scan.nextInt();
 		
-		int koreanAge = 2020 - myBirthYear +1;
+		int koreanAge = 2037 - myBirthYear +1;
 		
+		
+//		2037년의 나이로 변경
 		System.out.println(koreanAge);
 		
 		
